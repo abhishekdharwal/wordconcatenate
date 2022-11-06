@@ -1,6 +1,6 @@
 <h4>Longest Compound word</h4>
 How to run on your machine 
--Download/Clone the repository on your device from [Repo link]()</br>
+-Download/Clone the repository on your device from [Repo link](https://github.com/abhishekdharwal/wordconcatenate)</br>
 -Open Impledge.cpp and then open terminal </br>
 -type g++ Impledge.cpp -o main </br>
 -type main Input_01.txt </br>
