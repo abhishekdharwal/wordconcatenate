@@ -1,0 +1,5 @@
+1. Longest Compound Word: ratcatdogcat
+2. Second Longest Compound Word: catsdogcats
+
+
+ Time taken for code to run : 999 micro seconds
