@@ -7,7 +7,7 @@ How to run on your machine
 -Solution file will be created with the respective output </br>
 
 <h4>Apprach and Algorithm </h4>
-For the given problem we need to find the words which are formed by the combination of the smaller words , and from this we need to find the first largestest and the second largest word in length. </br>
+For the given problem we need to find the words which are formed by the combination of the smaller words , and from this we need to find the first largest and the second largest word in length. </br>
 Here we will use Trie Data structure to implement the following .</br>
 -First we will sort the array in increasing order of length of the words so that while iteration bigger may be found by combination of the smaller word which may be already in Trie. </br>
 -Then we will iterate the array and check if the word can be formed by the combination of the smaller of words if not then we will add that word in the Trie .</br>
